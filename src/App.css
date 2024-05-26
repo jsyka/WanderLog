@@ -1,0 +1,13 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+  }
+body{
+  /* background-color: #3560dc; */
+  background-image: linear-gradient(to bottom, #009b96, hsl(53, 33%, 68%));
+  background-size: cover; /* Cover the entire screen */
+  background-attachment: fixed; /* Keep the background fixed */
+  color: #f4e5d4;
+}

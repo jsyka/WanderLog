@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Reg';
+    src: url(./assets/MontserratReg.ttf);
+}
+@font-face {
+    font-family: 'Bold';
+    src: url(./assets/MontserratBold.ttf);
+}
+@font-face {
+    font-family: 'SemiBold';
+    src: url(./assets/SemiBold.otf);
+}
+@font-face {
+    font-family: 'AlmostBold';
+    src: url(./assets/AlmostBold.ttf);
+}
+
+
+p{
+    font-family: 'Reg';
+}

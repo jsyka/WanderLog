@@ -1,0 +1,50 @@
+.HomePg{
+    font-family: 'Bold';
+}
+
+.title-container{
+    border-radius: 30px;
+    /* border: 3px solid #f4e5d4; */
+    padding: 20px 0 60px 60px;
+    background-image: linear-gradient( to bottom, #ffffff00, #00574676);
+    /* backdrop-filter: blur(120px); */
+    text-align: left;
+
+}
+
+button{
+    padding: 1.5% 4%;
+    border-radius: 20px;
+    border: 0px;
+    font-size: 30px;
+    font-family: 'AlmostBold';
+    margin-left: 23%;
+    color: #f4e5d4;
+    background-color: rgba(255, 152, 152, 0);
+    border: 2px solid;
+}
+button:hover{
+    background-color: #f4e5d4;
+    color: rgb(55, 152, 163);
+}
+
+h1{
+    font-size: 100px;
+}
+
+
+.title{
+    text-align: left;
+    margin-top: 110px;
+}
+.desc{
+    width: 600px;
+    line-height: 1.5;
+    text-align: left;
+}
+.bridge{
+    width: 700px;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+}
