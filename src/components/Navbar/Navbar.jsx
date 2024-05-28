@@ -14,7 +14,7 @@ const Navbar = ({ theme, setTheme }) => {
       />
       <ul className="links">
         <li>
-          <Link to='/WanderLog' className='nav-text'>home</Link>
+          <Link to='/home' className='nav-text'>home</Link>
         </li>
         <li>
           <Link to='/about' className='nav-text'>about</Link>
